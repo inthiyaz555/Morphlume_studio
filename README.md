@@ -1,17 +1,6 @@
 # 🎨 Morphlume Studio
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" alt="Morphlume Studio Banner" width="100%" />
-  
-  <h3>The Ultimate AI-Powered Creative Studio</h3>
-  
-  <p align="center">
-    <a href="#-features">Features</a> •
-    <a href="#-tech-stack">Tech Stack</a> •
-    <a href="#-getting-started">Getting Started</a> •
-    <a href="#-screens">Screens</a>
-  </p>
-</div>
+
 
 ---
 
