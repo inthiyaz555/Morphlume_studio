@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "id": "admin-user",
+      "email": "admin@example.com",
+      "password": "$2b$10$CH93.LmreAsTM5Kp3qzuquVG3W6esyS.PnUXdlX9mnf5F4JXy6xoi",
+      "displayName": "Admin User",
+      "createdAt": "2026-03-24T05:00:05.174Z"
+    },
+    {
+      "id": "ohe01cxglg",
+      "email": "abc@gmail.com",
+      "password": "$2b$10$TY/XsJKHly.byf4FqPyQ/Oftt/9IxAkRrxlShhR6ftTAvc8uWZvhC",
+      "displayName": "abc",
+      "createdAt": "2026-03-24T05:02:27.726Z",
+      "photoURL": ""
+    },
+    {
+      "id": "z4wer1762yd",
+      "email": "test@example.com",
+      "password": "$2b$10$OfPuL5grE9lsbPO6rlcJEej5ITklIvEnvs1T31yEQkghk3/Z3FUb6",
+      "displayName": "Test User",
+      "createdAt": "2026-03-24T05:21:32.356Z",
+      "photoURL": ""
+    },
+    {
+      "id": "hrizkin9sxs",
+      "email": "inthiyaz@example.com",
+      "password": "$2b$10$mjNLYqZdTNRPHihzVEUBl..ei52PlWxlnDzaLvkZXI2dK5TIcgWqC",
+      "displayName": "Inthiyaz",
+      "createdAt": "2026-03-24T08:05:59.211Z",
+      "photoURL": ""
+    }
+  ],
+  "transformations": []
+}

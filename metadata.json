@@ -1,0 +1,5 @@
+{
+  "name": "Morphlume Studio",
+  "description": "The world's most advanced AI creative suite for high-end image and video transformations. Elevate your media with professional-grade artistic intelligence.",
+  "requestFramePermissions": ["camera", "microphone"]
+}
